@@ -1,0 +1,5 @@
+1) 127.0.0.1 -> 자기자신
+
+2) C:\Bitnami\wampstack-7.3.13-0\apache2\htdocs -> Server
+
+3) Disqus(댓글), tawk(채팅), Google analytics(사용자분석)
